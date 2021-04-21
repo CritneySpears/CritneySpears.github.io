@@ -8,7 +8,8 @@ Also have experience working with Networked systems & web applications using pyt
 
 ### My Projects
 
-##Hivernation ![Hivernation gif](Hivernation.gif)
+##Hivernation
+![Hivernation gif](Hivernation.gif)
 Format: ![Alt Text](url)
 
 TopDownGame
