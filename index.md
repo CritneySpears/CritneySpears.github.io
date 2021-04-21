@@ -14,8 +14,8 @@ Also have experience working with Networked systems & web applications using pyt
     <th>Independant</th>
   </tr>
   <tr>
-    <td>Hivernation<br><img src = "Hivernation.gif" alt="1" width = 384px height = 216px</td>
-    <td>Mobile Shift Tracker<br><img src = "worktracker.jpg" alt="2" width = 192px height = 384px</td>
+    <td>Hivernation<br><img src = "Hivernation.gif" alt="1" width = 384px height = 216px></td>
+    <td>Mobile Shift Tracker<br><img src = "worktracker.jpg" alt="2" width = 192px height = 384px></td>
   </tr>
   <tr>
     <td>Eve</td>
