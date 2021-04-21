@@ -8,8 +8,9 @@ Also have experience working with Networked systems & web applications using pyt
 
 ### My Projects
 
-##Hivernation
-![alt text](Hivernation.gif "Hivernation")
+| University | Personal |
+:----------------:|:----------------:
+![alt text](Hivernation.gif "Hivernation") | ![alt text](worktracker.jpg "Shift Tracker")
 
 TopDownGame
 
