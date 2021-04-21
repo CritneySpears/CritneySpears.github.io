@@ -8,9 +8,15 @@ Also have experience working with Networked systems & web applications using pyt
 
 ### My Projects
 
-University | Independant
------------|------------
-Hivernation ![Hivernation gif](Hivernation.gif)
-Format: ![Alt Text](url) | TopDownGame
-Defend the Compound | Mobile App
-VR Training Sim | Super Runner
+##Hivernation ![Hivernation gif](Hivernation.gif)
+Format: ![Alt Text](url)
+
+TopDownGame
+
+Defend the Compound
+
+Mobile App
+
+VR Training Sim
+
+Super Runner
