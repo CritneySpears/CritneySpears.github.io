@@ -1,23 +1,15 @@
 ## Welcome to My Portfolio!
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a keen, enthusiastic student with an itch for programming and passion for games!
+Experienced with C/C++, C#, .NET, Unreal Engine & Unity.
+Also have experience working with Networked systems & web applications using python, HTML, CSS, PHP & Javascript.
 
-```markdown
-Syntax highlighted code block
+### My Projects
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+University | Independant
+-----------|------------
+Hivernation | TopDownGame
+Defend the Compound | Mobile App
+VR Training Sim | Super Runner
