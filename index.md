@@ -8,9 +8,20 @@ Also have experience working with Networked systems & web applications using pyt
 
 ### My Projects
 
-| University | Personal |
-:----------------:|:----------------:
-![alt text](Hivernation.gif "Hivernation") | ![alt text](worktracker.jpg "Shift Tracker")
+<table style="width:100%">
+  <tr>
+    <th>University</th>
+    <th>Independant</th>
+  </tr>
+  <tr>
+    <td>Hivernation<br><img src = "Hivernation.gif" alt="1" width = 384px height = 216px</td>
+    <td>Mobile Shift Tracker<br><img src = "worktracker.jpg" alt="2" width = 192px height = 384px</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+  </tr>
+</table>
 
 TopDownGame
 
