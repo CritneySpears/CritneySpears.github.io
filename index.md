@@ -8,7 +8,8 @@ Also have experience working with Networked systems & web applications using pyt
 
 ### My Projects
 
-<table style="width:100%">
+table, th, td {
+<table style="width:100%; text-align:centre; border:1px solid black; border-collapse:collapse; border-spacing:5px; padding:15px">
   <tr>
     <th>University</th>
     <th>Independant</th>
