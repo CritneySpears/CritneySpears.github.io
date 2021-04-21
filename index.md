@@ -8,21 +8,12 @@ Also have experience working with Networked systems & web applications using pyt
 
 ### My Projects
 
-table, th, td {
-<table style="width:100%; text-align:centre; border:1px solid black; border-collapse:collapse; border-spacing:5px; padding:15px">
-  <tr>
-    <th>University</th>
-    <th>Independant</th>
-  </tr>
-  <tr>
-    <td>Hivernation<br><img src = "Hivernation.gif" alt="1" width = 384px height = 216px></td>
-    <td>Mobile Shift Tracker<br><img src = "worktracker.jpg" alt="2" width = 192px height = 384px></td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-  </tr>
-</table>
+|   Description   |      Preview     |     Download     |   Source Code   |
+:----------------:|:----------------:|:----------------:|:----------------:
+Hivernation - A Bee Themed RTS game, a group project created in 15 weeks at University. | ![alt text](Hivernation.gif "Hivernation") | [Link to Download](https://drive.google.com/file/d/1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp/view?usp=sharing) | Sorry no source code available yet!
+Mobile Shift Tracker - A simple android app to track your shift hours by "clocking" in and out. | ![alt text](worktracker.jpg "Shift Tracker") | No Download Link | [Link to Source Code](https://github.com/CritneySpears/MobileApp)
+
+
 
 TopDownGame
 
