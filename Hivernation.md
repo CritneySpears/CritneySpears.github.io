@@ -1,6 +1,6 @@
 ---
-title: Hivernation
-logo: Hivernation.gif
+layout:project
+logo:Hivernation.gif
 ---
 
 ## Hivernation
