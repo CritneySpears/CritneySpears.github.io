@@ -12,13 +12,13 @@ Also have experience working with Networked systems & web applications using pyt
 :--------------:|:----------------:
 Hivernation - A Bee Themed RTS game. [More...](Hivernation.md) | ![alt text](Hivernation.gif "Hivernation")
 Mobile Shift Tracker - Android app to track shift hours. [More...](ShiftTracker.md) | ![alt text](worktracker.jpg "Shift Tracker")
-Super Runner - A Game jam with the theme "Super". [More...](SuperRunner.md) | ![alt text]()
+Super Runner - A Game jam with the theme "Super". [More...](SuperRunner.md) | ![alt text](superrunner.gif "Super Runner")
 Wave Defense Shooter - Survive against waves of enemies. [More...](ShooterGame.md) | ![alt text](defense.gif "Wave Defense Game")
-TopDownGame - A work in progress action RPG. [More...](TopDownGame.md) |
-VR Training Sim - Simulation in VR demonstrating tool use. |
+TopDownGame - A work in progress action RPG. [More...](TopDownGame.md) | ![alt text](topdowngame.gif "Top Down Game")
+VR Training Sim - Simulation in VR demonstrating tool use. | ![alt text](VRsimgif.gif "Training Sim")
 
 #### More to come!
-
+Contact croft.sam77@gmail.com to get in touch!
 
 
 
