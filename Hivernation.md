@@ -3,8 +3,8 @@ layout: project
 title: Hivernation
 gif: Hivernation.gif
 show_downloads: true
-github.zip_url: (https://drive.google.com/uc?export=download&id=1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp)
-github.repository_url: (https://github.com/cookiester34/UniGameDev)
+github.zip_url: https://drive.google.com/uc?export=download&id=1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp
+github.repository_url: https://github.com/cookiester34/UniGameDev
 ---
 
 ## Hivernation
