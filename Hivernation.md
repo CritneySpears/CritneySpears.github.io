@@ -3,8 +3,8 @@ layout: project
 title: Hivernation
 gif: Hivernation.gif
 show_downloads: true
-github.zip_url: https://drive.google.com/file/d/1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp/view?usp=sharing
-github.repository_url: https://github.com/cookiester34/UniGameDev
+github.zip_url: (https://drive.google.com/file/d/1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp/view?usp=sharing)
+github.repository_url: (https://github.com/cookiester34/UniGameDev)
 ---
 
 ## Hivernation
@@ -18,6 +18,6 @@ We chose city builder + survival
 So we made a bee-themed RTS akin to Northgard & the Stronghold Crusader series.
 
 Here's a youtube video showing the latest build...
-Youtube video: <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Youtube video: <iframe width="560" height="315" src="https://www.youtube.com/embed/fZ0jwzupHFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Back](index.md)
