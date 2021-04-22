@@ -2,14 +2,13 @@
 layout: project
 title: Hivernation
 gif: Hivernation.gif
-show_downloads: true
-github.zip_url: []https://drive.google.com/uc?export=download&id=1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp
 github.repository_url: []https://github.com/cookiester34/UniGameDev
 ---
 
 ## Hivernation
 
-[Download](https://drive.google.com/file/d/1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp/view?usp=sharing)
+[Download](https://drive.google.com/uc?export=download&id=1WBfRyxU8ywNIHwzcUX3SOFy-uVb2Erfp)
+[Source](https://github.com/cookiester34/UniGameDev)
 
 This is my final year game development project. As part of a team, we must design, develop and implement a game from a given "unusual" prompt. 
 
