@@ -1,3 +1,12 @@
+<style>
+	div
+	{
+		background: #466368;
+		background: -webkit-linear-gradient(#648880, #293f50);
+		background:    -moz-linear-gradient(#648880, #293f50);
+		background:         linear-gradient(#648880, #293f50);
+	}
+</style>
 ## Welcome to My Portfolio!
 
 ### About Me
