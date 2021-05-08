@@ -27,7 +27,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
-  -webkit-text-stroke: 3px black;
+  -webkit-text-stroke: 1px black;
 }
 
 h2 {
@@ -106,6 +106,10 @@ th {
 
 img {
   max-width:100%;
+}
+
+.imground {
+  border-radius: 50%;
 }
 
 kbd {
