@@ -15,7 +15,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#ededdd;
   margin:0 0 20px;
-  outline: 5px solid black;
+  -webkit-text-stroke 1px black;
+  text-shadow:
+	3px 3px 0 #000,
+  -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+    1px 1px 0 #000,
 }
 
 p, ul, ol, table, pre, dl {
@@ -106,6 +112,10 @@ th {
 
 img {
   max-width:100%;
+}
+
+.imground {
+  max-width: 100%;
   border-radius: 50%;
 }
 
