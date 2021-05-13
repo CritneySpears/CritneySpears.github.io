@@ -1,7 +1,7 @@
 ---
 layout: project
 title: VR Sim
-gif: VRSimgif.gif
+gif: VRsimgif.gif
 ---
 
 ## VR Sim
