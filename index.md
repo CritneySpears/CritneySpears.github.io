@@ -15,7 +15,7 @@ Mobile Shift Tracker - Android app to track shift hours. [More...](ShiftTracker.
 Super Runner - A Game jam with the theme "Super". [More...](SuperRunner.md) | ![alt text](superrunner.gif "Super Runner")
 Wave Defense Shooter - Survive against waves of enemies. [More...](ShooterGame.md) | ![alt text](defense.gif "Wave Defense Game")
 TopDownGame - A work in progress action RPG. [More...](TopDownGame.md) | ![alt text](topdowngame.gif "Top Down Game")
-VR Training Sim - Simulation in VR demonstrating tool use. | ![alt text](VRsimgif.gif "Training Sim")
+VR Training Sim - Simulation in VR demonstrating tool use. [More...](VRSim.md) | ![alt text](VRsimgif.gif "Training Sim")
 
 #### More to come!
 Contact croft.sam77@gmail.com to get in touch!
