@@ -4,7 +4,6 @@ title: Super Runner
 gif: superrunner.gif
 ---
 
-## Super Runner
 
 
 

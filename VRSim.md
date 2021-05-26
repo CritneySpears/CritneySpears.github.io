@@ -4,7 +4,6 @@ title: VR Sim
 gif: VRsimgif.gif
 ---
 
-## VR Sim
 
 
 

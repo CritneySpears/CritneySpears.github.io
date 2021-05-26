@@ -4,7 +4,6 @@ title: Wave Defense Shooter
 gif: defense.gif
 ---
 
-## Wave Defense Shooter
 
 
 

@@ -4,7 +4,6 @@ title: Shift Tracker
 gif: worktracker.jpg
 ---
 
-## Shift Tracker
 
 
 

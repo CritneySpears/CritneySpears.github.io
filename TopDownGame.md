@@ -4,7 +4,6 @@ title: TopDownGame
 gif: topdowngame.gif
 ---
 
-## Top Down Game
 
 This is a personal project that I've been developing in Unreal Engine with C++ & Blueprints.
 It's an Action Role-Playing Game, akin to Diablo & PoE with a faked Isometric view.
